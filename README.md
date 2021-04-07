@@ -52,6 +52,8 @@ die();
 <!-- GITHUB -->
 
 * [x] Tarea 1
-* [] Tarea 2
-* [] Tarea 3
+* [ ] Tarea 2
+* [ ] Tarea 3
 * [x] Tarea 4
+
+@federicotomadin :heavy_check_mark:
