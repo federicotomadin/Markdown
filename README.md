@@ -8,14 +8,14 @@
 ~~hola~~
 
 * lista desordenada 
-    * la cocnha 
-    * de la lora 
+    * item 1 
+    * item 2  
 * lista desornedada 2 
 
-1. la concha 
+1. Lista ordenada 1 
     1. la puta madre
     2. pija 
-2. de la lora 
+2. Lista ordenada 2 
 
 [Federico Tomadin](https://federicotomadin.com)
 
