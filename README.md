@@ -58,3 +58,7 @@ die();
 
 
 [![IMAGE ALT TEXT HERE](disco_Fede.png)](https://www.youtube.com/watch?v=0sxShBkstr4&ab_channel=FedericoTomadin)
+
+
+Inline-style: 
+![alt text](disco_Fede.png "Foto Disco")
