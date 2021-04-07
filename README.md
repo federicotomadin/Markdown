@@ -13,8 +13,8 @@
 * lista desornedada 2 
 
 1. Lista ordenada 1 
-    1. la puta madre
-    2. pija 
+    1. item 1 
+    2. item 2  
 2. Lista ordenada 2 
 
 [Federico Tomadin](https://federicotomadin.com)
